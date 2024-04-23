@@ -3,8 +3,8 @@
         "EndpointUrl": "opc.tcp://10.0.0.4:49320",
         "UseSecurity": true,
         "OpcAuthenticationMode": "UsernamePassword",
-        "OpcAuthenticationUsername": "Administrator",
-        "OpcAuthenticationPassword": "edgeeflow@12345",
+        "OpcAuthenticationUsername": " ",
+        "OpcAuthenticationPassword": " ",
         "OpcNodes": [
             {
                 "Id": "ns=2;s=Simulator.Line1.Humidity"
